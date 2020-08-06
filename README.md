@@ -28,7 +28,7 @@
 
 ## Screenshot <a name = "sc"></a>
 
-[Screenshot](./app/assets/images/screenshot.png)
+[Screenshot]()
 
 ## 🔴 Live Demo <a name = "ldl"></a>
 
