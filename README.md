@@ -29,11 +29,11 @@ This project is a microverse collaborative project which is part of the requirem
 
 ## Screenshot <a name = "sc"></a>
 
-[Screenshot]()
+[Screenshot](./app/assets/images/demo-screenshot.png)
 
 ## 🔴 Live Demo <a name = "ldl"></a>
 
-[Run on heroku]()
+[Run on heroku](https://temdeep-blog.herokuapp.com/)
 
 
 ## Getting Started <a name = "gs"></a>
