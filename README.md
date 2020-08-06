@@ -1,31 +1,38 @@
 # Blog- App
 
-[![View Code](https://img.shields.io/badge/View%20-Code-green)]()
-[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)]()
-[![GitHub Pull Requests](https://img.shields.io/badge/GitHub-Pull%20Requests-blue)]()
+     This project is a microverse collaborative project which is part of the requirements of the microverse technical curriculum in the Rails section. In This web application one can write the article by including the images and tags. A user can comment on any blog post without any authorization. 
 
-## Content
+<div align="center">
 
-<a text-align="center" href="#instructions">Instructions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[![View Code](https://img.shields.io/badge/View%20-Code-green)](https://github.com/Dipeshtwis/blogger/tree/feature/article)
+[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/Dipeshtwis/blogger/issues)
+[![GitHub Pull Requests](https://img.shields.io/badge/GitHub-Pull%20Requests-blue)](https://github.com/Dipeshtwis/blogger/pulls)
+
+</div>
+
+## 📝 Content
+
+<p align="center">
 <a href="#with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#sc">Screenshot</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#ldl">Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#gs">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#author">Author</a>
-
-## Instructions <a name = "instructions"></a>
-
-- [ ] .
-
+</p>
 
 ## 🔧 Built with<a name = "with"></a>
 
-- Ruby on Rails
-- Ruby
+- Ruby on Rails (Version: 6.0.3.2)
+- Ruby (Version: 2.7.1)
 
+
+## Screenshot <a name = "sc"></a>
+
+[Screenshot]()
 
 ## 🔴 Live Demo <a name = "ldl"></a>
 
-[![Run on heroku]()
+[Run on heroku]()
 
 
 ## Getting Started <a name = "gs"></a>
@@ -39,7 +46,8 @@ $ cd <folder>
 ~~~bash
 $ git clone git@github.com:Dipeshtwis/blogger.git
 $ cd blogger
-$ bundle install 
+$ bundle install
+$ rails db:migrate
 ~~~
 
 
