@@ -1,6 +1,7 @@
 # Blog- App
 
-     This project is a microverse collaborative project which is part of the requirements of the microverse technical curriculum in the Rails section. In This web application one can write the article by including the images and tags. A user can comment on any blog post without any authorization. 
+This project is a microverse collaborative project which is part of the requirements of the microverse technical curriculum in the Rails section. In This web application one can write the article by including the images and tags. A user can comment on any blog post without any authorization.
+      
 
 <div align="center">
 
