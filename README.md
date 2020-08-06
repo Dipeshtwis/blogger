@@ -29,7 +29,7 @@ This project is a microverse collaborative project which is part of the requirem
 
 ## Screenshot <a name = "sc"></a>
 
-[Screenshot](./app/assets/images/demo-screenshot.png)
+![screenshot](./app/assets/images/demo-screenshot.png)
 
 ## 🔴 Live Demo <a name = "ldl"></a>
 
