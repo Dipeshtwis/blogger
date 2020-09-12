@@ -25,6 +25,7 @@ gem 'jbuilder', '~> 2.7'
 gem "paperclip"
 #Using for authentication
 gem 'sorcery'
+gem "actionview", ">= 6.0.3.3"
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
